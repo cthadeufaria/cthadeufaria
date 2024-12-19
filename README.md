@@ -17,13 +17,12 @@
 
 ### :sun_with_face: About me:
 
-I'm a ✨ _Control and Automation Engineer_ ✨ and ✨ _Master Student_ ✨ at FEUP, based in Portugal, passionate about Machine Learning and Control algorithms, state space modelling, data engineering and hardware development applications. I'm experienced in Python primarily and worked building Bussiness Analysis tools and data ETL workflows for big fintech companies.
+I'm a ✨ _Control and Automation Engineer_ ✨ and ✨ _Master Student_ ✨ at FEUP, based in Portugal, passionate about Machine Learning and Control algorithms, data engineering and hardware development applications. I'm experienced in Python primarily and worked building Bussiness Analysis tools and data ETL workflows for big fintech companies.
 
 
-- 🔭 I’m currently working as a hardware developer building interactive Raspberry Pi solutions for an advertisement company.
-- 🤖 I'm looking for collaborations in Machine Learning and Control algorithms' projects.
-- 🌱 I’m currently learning Solidity and the Django framework.
-- 🤔 I’m looking for help with a personal crypto investing bot project based in Machine Learning.
+- 🔭 I’m currently involved in hardware development projects building solutions using the Raspberry Pi platform.
+- 🤖 I'm looking for collaborations in Machine Learning and Robotics projects.
+- 🌱 I’m currently learning the Rust development language.
 - 📫 How to reach me: crls.thadeu@gmail.com
 
 ---
