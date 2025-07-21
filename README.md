@@ -2,7 +2,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWF4Mzl4MTd6dThhc3Npc3Rjd2Vhd3hpdHk4dG94ZHd1dHc2dzJpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jdPMeyv9rn0hZHh8n9/giphy.gif" width="300"/>
 </div>
 <div id="badges", align="center">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/carlos-faria-33b51291/)">
+  <a href="https://www.linkedin.com/in/carlos-faria-33b51291/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:crls.thadeu@gmail.com">
