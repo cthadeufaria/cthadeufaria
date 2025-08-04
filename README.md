@@ -19,7 +19,7 @@
 
 I'm a ✨ _Control and Automation Engineer_ ✨ and ✨ _Master in Electrical and Computer Engineering_ ✨ from FEUP. Born in Brazil and based in Portugal, passionate about Machine Learning - specially applied to Computer Vision 👀 -, Control Algorithms and Hardware Development applications. I'm fluent in Python and delving into the realm of Rust. 
 
-I've worked building Data & Bussiness Analysis tools and ETL workflows for fintech companies; different hardware projects with the Raspberry Pi; Computer Vision Machine Learning Models; Rust media AI pipelines, among many other projects. 
+I've worked building Data & Bussiness Analysis tools and ETL workflows for fintech companies; a diversity of hardware projects with the Raspberry Pi; Computer Vision Machine Learning Models; Rust media AI pipelines, among many other projects. 
 
 
 - 🔭 Involved in hardware development and machine learning projects.
